@@ -11,6 +11,10 @@ mcfunction のコードを貼ると、Discord の `ansi` コードブロック�
 
 「コメント行を除外」「空行を除外」で、送る前に行を減らせます。
 
+## Discordユーザーアプリ
+
+Cloudflare Workersを使うことで、Discordのユーザーアプリとしても動かせます。詳しくは [セットアップ手順](docs/cloudflare-workers.md) を参照してください。
+
 ## 色分け
 
 VS Code（Dark Modern テーマ）＋ Spyglass と同じ色を、カラーコード（24bit）で指定します。24bit カラーに対応していない Discord では、近い8色で表示されます。
