@@ -1,4 +1,4 @@
-# mcfunction → Discord
+# [mcfunction → Discord](https://github.com/Ruby-mc-cmd/mcfunction-discord-ansi)
 
 mcfunction のコードを貼ると、Discord の `ansi` コードブロックで VS Code（Spyglass）と同じように色分けされるテキストを作るツールです。
 
